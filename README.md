@@ -1,5 +1,5 @@
 # BOSWARM
-A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). As you can see, I have decided to Immortalize it on github, because why not?
+A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). As you can see, I have decided to archive it on github, because why not?
 
 ![Boswarm screenshot](https://github.com/wsDev0/boswarm-prototype-game/blob/main/Screenshot_20221030_192226.png?raw=true)
 
