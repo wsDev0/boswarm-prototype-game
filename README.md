@@ -1,5 +1,5 @@
 # BOSWARM
-A small breakout-like game prototype I made in my freshman year of hischool. I decided to Immortalize it in github because why not?
+A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). I decided to Immortalize it in github because why not?
 
 [Play on p5js.org](https://editor.p5js.org/gmr/sketches/eNgJggeGU)
 
