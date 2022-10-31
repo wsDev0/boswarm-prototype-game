@@ -1,5 +1,5 @@
 # BOSWARM
-A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). I decided to Immortalize it in github because why not?
+A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). I decided to Immortalize it on github, because why not?
 
 [Play on p5js.org](https://editor.p5js.org/gmr/sketches/eNgJggeGU)
 
@@ -10,6 +10,7 @@ Every few seconds blocks more blocks appear from the bottom of the screen. Don't
 The more you hit blocks, the higher your special meter gets. 
 Once your special meter reaches 100%, you start accelerating super fast and it shrinks back down (not perfectly implemented).
 After your special meter is depleted, your power increases by a tiny bit. 
+The game lasts forever.
 ```
 
 
