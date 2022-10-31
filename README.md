@@ -1,6 +1,8 @@
 # BOSWARM
 A small breakout-like game prototype I made in my freshman year of highschool (2021-2022). I decided to Immortalize it on github, because why not?
 
+![Boswarm screenshot](https://github.com/wsDev0/boswarm-prototype-game/blob/main/Screenshot_20221030_192226.png?raw=true)
+
 [Play on p5js.org](https://editor.p5js.org/gmr/sketches/eNgJggeGU)
 
 # How to play
